@@ -1,0 +1,19 @@
+{
+  "name": "simple-mean-stack",
+  "homepage": "https://github.com/indranugraha/restful-node-express-mongo",
+  "authors": [
+    "indranugraha <indrango@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular-animate": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0"
+  }
+}
